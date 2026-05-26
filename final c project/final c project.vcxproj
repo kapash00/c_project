@@ -128,12 +128,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.c" />
+    <ClCompile Include="Menu.c" />
+    <ClCompile Include="simulation.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Analyst.h" />
-    <ClInclude Include="Event.h" />
-    <ClInclude Include="Node.h" />
-    <ClInclude Include="Ticket.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Simulation.h" />
+    <ClInclude Include="Structs.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Active_Cyber_Attack.txt" />
+    <Text Include="Normal_Morning_Shift.txt" />
+    <Text Include="Quiet_Night_Shift.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
