@@ -130,6 +130,7 @@
     <ClCompile Include="Main.c" />
     <ClCompile Include="Menu.c" />
     <ClCompile Include="simulation.c" />
+    <ClCompile Include="structs.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Menu.h" />

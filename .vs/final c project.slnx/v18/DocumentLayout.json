@@ -3,24 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\shaha\\source\\repos\\final c project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\simulation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\simulation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Structs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Structs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Simulation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\structs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\structs.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Ticket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Normal_Morning_Shift.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Normal_Morning_Shift.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Quiet_Night_Shift.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Quiet_Night_Shift.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Active_Cyber_Attack.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Active_Cyber_Attack.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Analyst.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Analyst.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7B6A04A-1EC0-43D6-8C5A-702789796121}|final c project\\final c project.vcxproj|solutionrelative:final c project\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +53,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ticket.h",
-              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Ticket.h",
-              "RelativeDocumentMoniker": "final c project\\Ticket.h",
-              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Ticket.h",
-              "RelativeToolTip": "final c project\\Ticket.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-25T12:04:41.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Node.h",
-              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Node.h",
-              "RelativeDocumentMoniker": "final c project\\Node.h",
-              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Node.h",
-              "RelativeToolTip": "final c project\\Node.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-25T11:57:03.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Analyst.h",
-              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Analyst.h",
-              "RelativeDocumentMoniker": "final c project\\Analyst.h",
-              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Analyst.h",
-              "RelativeToolTip": "final c project\\Analyst.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-25T11:53:01.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Event.h",
-              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Event.h",
-              "RelativeDocumentMoniker": "final c project\\Event.h",
-              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Event.h",
-              "RelativeToolTip": "final c project\\Event.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-25T11:47:48.2Z",
+              "Title": "structs.c",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\structs.c",
+              "RelativeDocumentMoniker": "final c project\\structs.c",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\structs.c",
+              "RelativeToolTip": "final c project\\structs.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-26T16:56:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Normal_Morning_Shift.txt",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Normal_Morning_Shift.txt",
+              "RelativeDocumentMoniker": "final c project\\Normal_Morning_Shift.txt",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Normal_Morning_Shift.txt",
+              "RelativeToolTip": "final c project\\Normal_Morning_Shift.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-26T12:13:20.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "simulation.c",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\simulation.c",
+              "RelativeDocumentMoniker": "final c project\\simulation.c",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\simulation.c",
+              "RelativeToolTip": "final c project\\simulation.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-26T10:57:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Structs.h",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Structs.h",
+              "RelativeDocumentMoniker": "final c project\\Structs.h",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Structs.h",
+              "RelativeToolTip": "final c project\\Structs.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T10:37:48.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulation.h",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Simulation.h",
+              "RelativeDocumentMoniker": "final c project\\Simulation.h",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Simulation.h",
+              "RelativeToolTip": "final c project\\Simulation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T10:43:41.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.c",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Menu.c",
+              "RelativeDocumentMoniker": "final c project\\Menu.c",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Menu.c",
+              "RelativeToolTip": "final c project\\Menu.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-26T07:15:30.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Main.c",
               "RelativeDocumentMoniker": "final c project\\Main.c",
               "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Main.c",
               "RelativeToolTip": "final c project\\Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-05-25T11:39:58.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Active_Cyber_Attack.txt",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Active_Cyber_Attack.txt",
+              "RelativeDocumentMoniker": "final c project\\Active_Cyber_Attack.txt",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Active_Cyber_Attack.txt",
+              "RelativeToolTip": "final c project\\Active_Cyber_Attack.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-26T12:12:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAADwEAAAAAAAAAAAvwEoEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T14:02:16.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Quiet_Night_Shift.txt",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Quiet_Night_Shift.txt",
+              "RelativeDocumentMoniker": "final c project\\Quiet_Night_Shift.txt",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Quiet_Night_Shift.txt",
+              "RelativeToolTip": "final c project\\Quiet_Night_Shift.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-26T13:51:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Menu.h",
+              "RelativeDocumentMoniker": "final c project\\Menu.h",
+              "ToolTip": "C:\\Users\\shaha\\source\\repos\\final c project\\final c project\\Menu.h",
+              "RelativeToolTip": "final c project\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-26T07:14:47.217Z",
               "EditorCaption": ""
             }
           ]

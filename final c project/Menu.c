@@ -23,7 +23,7 @@ int start_menu(int* shift_type)
 		printf("||          (1 Analyst - Low Load)                   ||\n");
 		printf("||                                                   ||\n");
 		printf("||        [3] Active Cyber Attack                    ||\n");
-		printf("||          (2 Analysts - Extreme Load)              ||\n");
+		printf("||          (3 Analysts - Extreme Load)              ||\n");
 		printf("======================================================\n\n>>");
 		scanf_s("%d", shift_type);
 	}
