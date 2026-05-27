@@ -7,7 +7,7 @@ typedef struct Analyst
 {
 	int analyst_id;
 	char name[50];
-	int is_avaliable;
+	double available_at;
 	int event_count;
 	struct Ticket* current_ticket;
 }Analyst;
@@ -17,6 +17,7 @@ typedef struct Event
 {
 	double start_time;
 	int  ticket_id;
+	int assigned_analyst_id;
 	int status;
 	int attack_type;
 	EventType event_type;

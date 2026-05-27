@@ -1,4 +1,4 @@
 2
 Daniel Shay
-15.5 Phishing
-142.0 FalsePositive
+15.5 0
+142.0 5

@@ -1,10 +1,10 @@
 3
 Gali Mika Shani
-1.2 BruteForce
-1.5 Malware
-2.0 Ransomware
-2.1 Malware
-2.8 Phishing
-3.0 DDoS
-3.5 Malware
-4.2 BruteForce
+1.2 2
+1.5 1
+2.0 3
+2.1 1
+2.8 0
+3.0 4
+3.5 1
+4.2 2

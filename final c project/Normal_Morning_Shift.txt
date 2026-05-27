@@ -1,5 +1,5 @@
 3
 May Itay Yair
-2.5 Phishing
-5.0 Malware
-12.8 BruteForce
+2.5 0
+5.0 1
+12.8 3

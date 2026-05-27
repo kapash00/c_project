@@ -1,3 +1,5 @@
-﻿  simulation.c
-C:\Users\shaha\source\repos\final c project\final c project\simulation.c(37,15): warning C4133: '=': incompatible types - from 'int *' to 'Attack *'
+﻿  Main.c
+  simulation.c
+  structs.c
+  Generating Code...
   final c project.vcxproj -> C:\Users\shaha\source\repos\final c project\x64\Debug\final c project.exe
