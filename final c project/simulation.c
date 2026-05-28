@@ -1,7 +1,9 @@
+#include <windows.h>
 #include "structs.h"
 #include "Simulation.h"
 void run_simulation(char* file_name, int shift)
 {
+	const char* attack_names[] = {"Phishing","Malware","Brute Force","Ransomware","DDoS","False Positive"};
 	double max_sim_time = 480.0;
 	int ticket_counter = 1;
 	int num_analyst = 0;
@@ -68,11 +70,12 @@ void run_simulation(char* file_name, int shift)
 			int analyst_id = find_analyst(analysts, num_analyst, current_time);
 			Event completion_event = create_closing_event(current_event, analyst_id, analysts, current_time);
 			insert_event(&head, completion_event);
-			printf("[Time: %06.2f] ALARM: Ticket %d (Type: %d) assigned to Analyst %s.\n",
-				current_time, current_event.ticket_id, current_event.attack_type, analysts[analyst_id].name);
+			printf("[Time: %06.2f] ALARM: Ticket %d (Type: %s) assigned to Analyst %s.\n",
+				current_time, current_event.ticket_id, attack_names[current_event.attack_type], analysts[analyst_id].name);
 
-			fprintf(log_file, "[Time: %06.2f] ALARM: Ticket %d (Type: %d) assigned to Analyst %s.\n",
-				current_time, current_event.ticket_id, current_event.attack_type, analysts[analyst_id].name);
+			fprintf(log_file, "[Time: %06.2f] ALARM: Ticket %d (Type: %s ) assigned to Analyst %s.\n",
+				current_time, current_event.ticket_id, attack_names[current_event.attack_type], analysts[analyst_id].name);
+			Sleep(1500);
 		}
 		else if (current_event.event_type == event_closed) 
 		{
@@ -83,8 +86,42 @@ void run_simulation(char* file_name, int shift)
 
 			fprintf(log_file, "[Time: %06.2f] RESOLVED: Ticket %d was closed by Analyst %s.\n",
 				current_time, current_event.ticket_id, analysts[current_event.assigned_analyst_id].name);
+			Sleep(1000);
+
 		}
 	}
+	printf("\n=========================================\n");
+	printf("         Shift summary report      \n");
+	printf("=========================================\n");
+
+	fprintf(log_file, "\n=========================================\n");
+	fprintf(log_file, "        Shift summary report       \n");
+	fprintf(log_file, "=========================================\n");
+	for (int i = 0; i < num_analyst; i++)
+	{
+		printf("Analyst: %s\n", analysts[i].name);
+		fprintf(log_file, "Analyst: %s\n", analysts[i].name);
+
+		int total_tickets_for_analyst = 0;
+		for (int j = 0; j < 7; j++)
+		{
+			if (stats_matrix[i][j] > 0)
+			{
+				printf("  - %s: %d\n", attack_names[j], stats_matrix[i][j]);
+				fprintf(log_file, "  - %s: %d\n", attack_names[j], stats_matrix[i][j]);
+
+				total_tickets_for_analyst += stats_matrix[i][j];
+			}
+		}
+		printf("  >> Total Tickets Resolved: %d\n\n", total_tickets_for_analyst);
+		fprintf(log_file, "  >> Total Tickets Resolved: %d\n\n", total_tickets_for_analyst);
+	}
+	for (int i = 0; i < num_analyst; i++) {
+		free(stats_matrix[i]);
+	}
+	free(stats_matrix);
+	free(analysts);
+	fclose(log_file);
 }
 
 
